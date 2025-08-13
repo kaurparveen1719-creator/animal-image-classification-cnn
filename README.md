@@ -6,6 +6,20 @@ This project implements image classification using Convolutional Neural Networks
 
 ## 📂 Dataset
 The dataset contains multiple classes of animal images used for training and evaluation.
+The dataset used for this project is available on Kaggle:  
+[Animal Dataset – Kaggle](https://www.kaggle.com/datasets/parveenkaur17/animal-datasets-1)
+
+---
+
+##  Kaggle Notebook
+View and run the full notebook on Kaggle:  
+[Animal Image Classification Using CNNs](https://www.kaggle.com/code/parveenkaur17/animal-image-classification-using-cnns)
+
+---
+
+##  My Kaggle Profile
+Explore my other datasets and notebooks here:  
+[Parveen Kaur on Kaggle](https://www.kaggle.com/parveenkaur17)
 
 ---
 
